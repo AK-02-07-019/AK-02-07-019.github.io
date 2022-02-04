@@ -4,6 +4,7 @@
     overflow-x: hidden !important;
     margin: 0px;
     padding: 0px;
+    background: white;
     
 }
 
@@ -17,7 +18,15 @@ a{
   text-decoration: none;
 
 }
-
+.foto1{
+    margin-left:-20px;
+}
+.foto2{
+    margin-left:-20px;
+}
+.foto3{
+    margin-left:-20px;
+}
 .carousel {
   background: white;
 
